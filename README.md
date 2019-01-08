@@ -45,6 +45,7 @@ git pull
 ```
 
 Help! I do not know where I am!
+:(
 ===
 ```
 git status
