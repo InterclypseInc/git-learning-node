@@ -14,7 +14,7 @@ Exercises
 Checking out a New Repository
 ===
 ```
-git clone git@gogs.caifos.us:Sofiac/git-learning-node.git
+git clone git@github.com:InterclypseInc/git-learning-node.git
 ```
 
 Creating a New Branch
